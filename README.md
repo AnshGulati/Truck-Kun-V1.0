@@ -3,4 +3,4 @@
 
 <b>Watch the video by clicking on the below video link </b>
 
-<a href="https://drive.google.com/file/d/1y9tk8e-DIiItFc7s1sOzLOvyduFDBKg_/view?usp=drive_link">Truck-Kun Video Link</a>
+<a target="_blank" href="https://drive.google.com/file/d/1y9tk8e-DIiItFc7s1sOzLOvyduFDBKg_/view?usp=drive_link">Truck-Kun Video Link</a>
