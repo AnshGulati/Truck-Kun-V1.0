@@ -10,6 +10,9 @@ TagManager:
   - Environment
   - Projectile
   - coin
+  - Coin Detector
+  - Player Bubble
+  - Coin PowerUp Effect
   layers:
   - Default
   - TransparentFX

@@ -124,6 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFromSpawner1: 1
+  src: {fileID: 6965550364975924660}
   coinvalue: 1
 --- !u!114 &6923756812948270103
 MonoBehaviour:
@@ -162,7 +163,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 4ebf8523085d90d44823a0fa33ed10eb, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0.67
   m_Pitch: 1
   Loop: 0
